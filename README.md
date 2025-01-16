@@ -6,7 +6,7 @@ hard coded to run on 8 cores since that was most optimal for my machine, allowin
 than Linux's built in sort function.
 
 Example log output:
-`
+```
 My machine has this many processors
 12
 
@@ -29,4 +29,4 @@ real	0m0.187s
 user	0m0.270s
 sys	0m0.045s
 All done
-`
+```
