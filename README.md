@@ -8,14 +8,23 @@ than Linux's built in sort function.
 Example log output:
 
 My machine has this many processors
+
 12
+
 Running the script with this many processors
+
 8
+
 Generating 1000000 random numbers
+
 arg[0]:generate
+
 arg[1]:1000000
+
 arg[2]:100000
+
 arg[3]:999999
+
 Starting system sort
 
 real	0m0.140s
